@@ -1,3 +1,4 @@
+import '/app.html';
 const app = require("express")();
 const PORT = process.env.PORT || 3000;
 
